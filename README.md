@@ -1,1 +1,1 @@
-https://chat-app-mern-frontend-one.vercel.app/
+https://chat-app-mern-frontend-one.vercel.app/login
